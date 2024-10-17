@@ -104,7 +104,7 @@
    - Amazing Vegan Food
    - [Google Maps](https://maps.app.goo.gl/7UxdWbc6fYabwDaW6)
   
-10. **Senes**
+10. **Senses**
    - French Restaurant
    - [Google Maps](https://maps.app.goo.gl/bSrbbQva34LxkX2p9)
   
@@ -121,10 +121,15 @@
 12. **DAO By Chef Nir Mesika**
     - Fancy restaurant - Omakasse - order in advance
     - [Google Maps](https://maps.app.goo.gl/CqeajDWhoR3hRQUa8)
-    - 
-12. **Deli Devi**
+
+13. **Deli Devi**
     - Great cafe and co-working, good vegan food
     - [Google Maps](https://maps.app.goo.gl/RAzxLdKH6qSYbhEPA)
+
+14. **High Life Bungalow**
+   - Scenic view of Haad Yao, free pool and nice restaurant
+   - Haad Yao: [Google Maps](https://maps.app.goo.gl/f8erc82TqwP67ohWA)
+   - TomorrowX Villas Haad Salad: [Google Maps](https://maps.app.goo.gl/2De4zf3ntVJkJ7vk6)
 
 ## Cafes
 
@@ -161,29 +166,33 @@
 
 ## Hotels
 
-1. **Anantara Rasananda Koh Phangan Villas**
-   - Luxury beachfront resort
-   - [Google Maps](https://goo.gl/maps/placeholder41)
-
-2. **Buri Rasa Village**
+1. **Buri Rasa Village**
    - Mid-range hotel with excellent amenities
-   - [Google Maps](https://goo.gl/maps/placeholder42)
+   - [Google Maps](https://maps.app.goo.gl/ZSmANjZk75JCpQ8r5)
 
-3. **Santhiya Koh Phangan Resort & Spa**
+2. **Santhiya Koh Phangan Resort & Spa**
    - Eco-luxury resort with traditional Thai architecture
-   - [Google Maps](https://goo.gl/maps/placeholder44)
+   - [Google Maps](https://maps.app.goo.gl/xLdyiFKPPKaBtRUq8)
 
-4. **Panviman Resort Koh Phangan**
+3. **Panviman Resort Koh Phangan**
    - Hillside resort with panoramic views
-   - [Google Maps](https://goo.gl/maps/placeholder45)
+   - [Google Maps](https://maps.app.goo.gl/nG6e49rdENfJcD1NA)
 
-5. **Sunset Hill Resort**
+4. **Sunset Hill Resort**
    - Boutique hotel with infinity pool
-   - [Google Maps](https://goo.gl/maps/placeholder47)
+   - [Google Maps](https://maps.app.goo.gl/nCPEds9fTV4pbSaX9)
 
-6.  **Sarikantang Resort & Spa**
+5.  **Sarikantang Resort & Spa**
     - Beachfront resort with traditional Thai-style rooms
-    - [Google Maps](https://goo.gl/maps/placeholder56)
+    - [Google Maps](https://maps.app.goo.gl/VRRhT17PTs6iLk127)
+
+6.  **Seaflower Bungalows**
+    - Great value hotel in Srithanu
+    - [Google Maps](https://maps.app.goo.gl/Bijw6yjByHP2UATn7)
+
+7.  **Summer Baan Tai**
+    - Upscale beach hotel Baan Tai
+    - [Google Maps](https://maps.app.goo.gl/xQbVMn5YxNiUi4Cy6)
 
 ## Parties
 
